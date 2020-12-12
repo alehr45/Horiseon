@@ -29,14 +29,14 @@ body {
 .header div {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    margin-right: 20px;
+    font-size: 17px;
+    margin-right: 10px;
     padding-top: 15px;
 }
 
 .header div ul {
     list-style-type: none;
-    font-weight: bolder;
+    
 }
 
 .header div ul li {
@@ -87,7 +87,7 @@ p {
 
 /* Right Side Content */
 .benefits {
-    background-color: #2a607c;
+    background-color: #2e93c5;
     clear: both;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -126,7 +126,7 @@ p {
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
-    background-color: #2a607c;
+    background-color: #0e68bd;
     color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 300px;
