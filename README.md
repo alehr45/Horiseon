@@ -1,4 +1,8 @@
 # Code Refactor Starter Code
+
+Asked to refact code and consolidate and organize as much as possible without losing funcionality. 
+
+
 reference index.html and style.css for all changes.
 
 1. fixed broken links.
